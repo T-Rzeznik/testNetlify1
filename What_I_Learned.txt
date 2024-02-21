@@ -1,0 +1,11 @@
+I learned a lot from doing this project. It gave me some useful insight on what tools are used for Front-End Development, how to manipulate styles and create a overall theme using these tools.
+
+Some takeways from doing this project:
+
+-It is much easier to start a webpage with a already layed-out style/styling. 
+
+-Creating a webpage from scratch can be very tedious and time consuming.
+
+-I started to see patterns in the styling, which sped up my process when starting from scratch. It allowed me to copy-paste formatting. From there I could tweak it how I needed. This came really handy during my CSS styling page.
+
+-Learning new frameworks such as Tailwind can be very intimidating looking in from the outside. Though with just a little knowledge and research you can achieve a lot.
